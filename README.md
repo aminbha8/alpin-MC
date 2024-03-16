@@ -1,5 +1,5 @@
 Privacy Policy for Alpine Medical Center
-Last Updated: [Insert Date]
+Last Updated: 03/03/2024
 
 Welcome to the Alpine Medical Center app, designed exclusively for our existing clients to provide a seamless and secure access to their health records, updates, and appointment notifications. This Privacy Policy outlines how we collect, use, protect, and handle your personal and medical information in accordance with our application's functionalities.
 
